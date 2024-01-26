@@ -13,3 +13,7 @@
 .plats h4 {
     display: inline;
 }
+
+.invalid-feedback{
+    color: red;
+}
